@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Soumya Swarup Nayak, An Aspiring Data Nerd
 🔍 Passionate about transforming raw data into actionable insights. I specialize in SQL, Power BI, Python, and Advanced Excel, using data visualization and analytics to drive business decisions.
 
 💡 Currently working on projects in marketing analytics, call center efficiency, and e-commerce data analysis. Always eager to learn and explore new trends in data science, BI, and AI.
